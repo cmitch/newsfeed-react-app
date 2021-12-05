@@ -1,0 +1,21 @@
+[
+    {
+        "username" : "Emma",
+        "body":  "Hello"
+    },
+
+    {
+        "username" : "Emma",
+        "body" : "I like dogs"
+    },
+
+    {
+        "username" : "Emma",
+        "body" : "Merry Christmas!!!"
+    },
+
+    {
+        "username" : "Emma", 
+        "body" : "Happy Holidays!!!"
+    }
+]
