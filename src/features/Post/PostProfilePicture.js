@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class PostProfileName extends Component {
+class PostProfilePicture extends Component {
     render() {
         return (
-            <div>
+            <div id={this.props.id}>
                 
             </div>
         );
     }
 }
 
-export default PostProfileName;
+export default PostProfilePicture;

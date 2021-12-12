@@ -1,5 +1,5 @@
 import './App.css';
-import Newsfeed from './components/Newsfeed';
+import Newsfeed from './features/Newsfeed';
 
 function App() {
   return (
